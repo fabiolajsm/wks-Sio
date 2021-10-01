@@ -1,0 +1,25 @@
+{
+  "name": "wks-sio",
+  "version": "1.0.0",
+  "description": "Native Ws",
+  "main": "JustWsServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiolajsm/wks-Sio.git"
+  },
+  "author": "Fabiola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiolajsm/wks-Sio/issues"
+  },
+  "homepage": "https://github.com/fabiolajsm/wks-Sio#readme",
+  "dependencies": {
+    "ws": "^8.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
