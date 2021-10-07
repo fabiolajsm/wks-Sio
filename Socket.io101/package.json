@@ -1,5 +1,5 @@
 {
-  "name": "socket.io101",
+  "name": "socketio101",
   "version": "1.0.0",
   "description": "socket.io101",
   "main": "basics.js",
@@ -9,6 +9,7 @@
   "author": "Fabiola Suárez",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^4.2.0"
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
   }
 }
