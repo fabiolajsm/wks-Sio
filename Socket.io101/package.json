@@ -1,0 +1,14 @@
+{
+  "name": "socket.io101",
+  "version": "1.0.0",
+  "description": "socket.io101",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabiola Suárez",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.2.0"
+  }
+}
